@@ -1,3 +1,7 @@
+***NOTE:*** This is just [node-config](https://github.com/lorenwest/node-config) with support for 
+ [git-crypt](https://github.com/AGWA/git-crypt), only useful until 
+ [PR #375](https://github.com/lorenwest/node-config/pull/375) has been approved and merged.
+
 Configure your Node.js Applications
 ===================================
 
